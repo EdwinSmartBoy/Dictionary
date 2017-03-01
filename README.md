@@ -12,4 +12,4 @@
     compile 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
     compile 'com.squareup.retrofit2:adapter-rxjava:2.0.0-beta4'
     
-    项目只是一个很简单的demo，只是练习mvp框架与使用RxJava结合Retrofit网络框架的练习。项目没什么难得地方，自己是在边学边写，知道自己是菜鸟，所以请路过的大神不要喷小弟，
+    项目只是一个很简单的demo，只是练习mvp框架与使用RxJava结合Retrofit网络框架的练习。项目没什么难的地方，自己是在边学边写，小弟知道自己是菜鸟，所以请路过的大神不要喷小弟
